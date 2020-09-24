@@ -9,4 +9,6 @@ func main() {
 	// fmt.Println(defangIPaddr("192.168.1.1"))
 	// fmt.Println(NumJewelsInStones("abbcd", "abcd"))
 	// fmt.Println(NumberOfSteps(14))
+	// fmt.Println(RestoreString("codeleet", []int{4, 5, 6, 7, 0, 2, 1, 3}))
+	// fmt.Println(SubtractProductAndSum(234))
 }
