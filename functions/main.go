@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
 	// fmt.Println(Reverse("!oG ,olleH"))
 	// fmt.Println(RunningSum([]int{1, 2, 3, 4}))
@@ -11,4 +13,5 @@ func main() {
 	// fmt.Println(NumberOfSteps(14))
 	// fmt.Println(RestoreString("codeleet", []int{4, 5, 6, 7, 0, 2, 1, 3}))
 	// fmt.Println(SubtractProductAndSum(234))
+	fmt.Println(DecompressRLElist([]int{1, 2, 3, 4}))
 }
